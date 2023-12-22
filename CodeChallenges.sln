@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution", ".solution", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenges.HackerRank", "src\CodeChallenges.HackerRank\CodeChallenges.HackerRank.csproj", "{ABE9E729-A440-46C7-BE59-F389A6557FFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenges.LeetCode", "src\CodeChallenges.LeetCode\CodeChallenges.LeetCode.csproj", "{D69175A7-32D5-40EA-9024-F422FD508A86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,5 +25,9 @@ Global
 		{ABE9E729-A440-46C7-BE59-F389A6557FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE9E729-A440-46C7-BE59-F389A6557FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE9E729-A440-46C7-BE59-F389A6557FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69175A7-32D5-40EA-9024-F422FD508A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69175A7-32D5-40EA-9024-F422FD508A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69175A7-32D5-40EA-9024-F422FD508A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69175A7-32D5-40EA-9024-F422FD508A86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
